@@ -56,4 +56,4 @@ function interpolateCubicSpline(pointsX, pointsY, resolution) {
   return curve
 }
 
-module.exports = { interpolateCubicSpline }
+export default interpolateCubicSpline
