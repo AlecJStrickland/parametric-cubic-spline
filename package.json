@@ -1,6 +1,6 @@
 {
   "name": "parametric-cubic-spline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interpolate a parametric cubic spline over a set of x,y values",
   "main": "index.js",
   "scripts": {
